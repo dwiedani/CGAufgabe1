@@ -1,0 +1,10 @@
+C:\Users\Swetlana\Documents\GitHub\CGAufgabe1\bin\Debug\netstandard2.0\Assets\AboutFuseeAssets.txt
+C:\Users\Swetlana\Documents\GitHub\CGAufgabe1\bin\Debug\netstandard2.0\Tut08_FirstStepsCompleted.deps.json
+C:\Users\Swetlana\Documents\GitHub\CGAufgabe1\bin\Debug\netstandard2.0\Tut08_FirstStepsCompleted.dll
+C:\Users\Swetlana\Documents\GitHub\CGAufgabe1\bin\Debug\netstandard2.0\Tut08_FirstStepsCompleted.pdb
+C:\Users\Swetlana\Documents\GitHub\CGAufgabe1\obj\Debug\netstandard2.0\Tut08_FirstStepsCompleted.csprojAssemblyReference.cache
+C:\Users\Swetlana\Documents\GitHub\CGAufgabe1\obj\Debug\netstandard2.0\Tut08_FirstStepsCompleted.csproj.CoreCompileInputs.cache
+C:\Users\Swetlana\Documents\GitHub\CGAufgabe1\obj\Debug\netstandard2.0\Tut08_FirstStepsCompleted.AssemblyInfoInputs.cache
+C:\Users\Swetlana\Documents\GitHub\CGAufgabe1\obj\Debug\netstandard2.0\Tut08_FirstStepsCompleted.AssemblyInfo.cs
+C:\Users\Swetlana\Documents\GitHub\CGAufgabe1\obj\Debug\netstandard2.0\Tut08_FirstStepsCompleted.dll
+C:\Users\Swetlana\Documents\GitHub\CGAufgabe1\obj\Debug\netstandard2.0\Tut08_FirstStepsCompleted.pdb
