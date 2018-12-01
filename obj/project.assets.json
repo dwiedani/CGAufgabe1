@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Swetlana\\Documents\\GitHub\\CGAufgabe1\\Tut08_FirstStepsCompleted.csproj",
-      "projectName": "Tut08_FirstStepsCompleted",
-      "projectPath": "C:\\Users\\Swetlana\\Documents\\GitHub\\CGAufgabe1\\Tut08_FirstStepsCompleted.csproj",
+      "projectUniqueName": "C:\\Users\\Swetlana\\Documents\\GitHub\\Aufgabe1\\Aufgabe1.csproj",
+      "projectName": "Aufgabe1",
+      "projectPath": "C:\\Users\\Swetlana\\Documents\\GitHub\\Aufgabe1\\Aufgabe1.csproj",
       "packagesPath": "C:\\Users\\Swetlana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Swetlana\\Documents\\GitHub\\CGAufgabe1\\obj\\",
+      "outputPath": "C:\\Users\\Swetlana\\Documents\\GitHub\\Aufgabe1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

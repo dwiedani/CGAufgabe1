@@ -1,0 +1,10 @@
+C:\Users\Swetlana\Documents\GitHub\Aufgabe1\bin\Debug\netstandard2.0\Assets\RocketModel.fus
+C:\Users\Swetlana\Documents\GitHub\Aufgabe1\bin\Debug\netstandard2.0\Aufgabe1.deps.json
+C:\Users\Swetlana\Documents\GitHub\Aufgabe1\bin\Debug\netstandard2.0\Aufgabe1.dll
+C:\Users\Swetlana\Documents\GitHub\Aufgabe1\bin\Debug\netstandard2.0\Aufgabe1.pdb
+C:\Users\Swetlana\Documents\GitHub\Aufgabe1\obj\Debug\netstandard2.0\Aufgabe1.csprojAssemblyReference.cache
+C:\Users\Swetlana\Documents\GitHub\Aufgabe1\obj\Debug\netstandard2.0\Aufgabe1.csproj.CoreCompileInputs.cache
+C:\Users\Swetlana\Documents\GitHub\Aufgabe1\obj\Debug\netstandard2.0\Aufgabe1.AssemblyInfoInputs.cache
+C:\Users\Swetlana\Documents\GitHub\Aufgabe1\obj\Debug\netstandard2.0\Aufgabe1.AssemblyInfo.cs
+C:\Users\Swetlana\Documents\GitHub\Aufgabe1\obj\Debug\netstandard2.0\Aufgabe1.dll
+C:\Users\Swetlana\Documents\GitHub\Aufgabe1\obj\Debug\netstandard2.0\Aufgabe1.pdb
